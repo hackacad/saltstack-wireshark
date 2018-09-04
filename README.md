@@ -31,5 +31,4 @@ See [LICENSE](LICENSE.txt).
 Acknowledgements
 ----------------
 
-This dissector is based on a dissector for ZMTP https://github.com/hackacad/saltstack-wireshark
-There have been some minor changes to automatically detect Saltstack instead of ZMTP.
+This dissector is based on a dissector for ZMTP https://github.com/whitequark/zmtp-wireshark
