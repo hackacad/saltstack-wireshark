@@ -17,7 +17,8 @@ This dissector requires Lua 5.2 or newer.
 Usage
 -----
 
-Salt should be automatically detected by Wireshark, when using non standard ports change it on Preferences → Protocols → Salt
+Salt should be automatically detected by Wireshark, when using non standard ports change it on 
+> Preferences → Protocols → Salt
 
 You can use expression `salt` to filter packets. TCP segments are automatically reassembled.
 
